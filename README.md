@@ -24,7 +24,7 @@ I'm a passionate software developer with a keen interest in [Frontend web develo
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/brighton-periyanayagam-3550a3223)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/brighton-periyanayagam-3550a3223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlrGBz5yPScOx38bxeBty7A%3D%3D)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
