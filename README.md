@@ -7,9 +7,9 @@ Brightonperiyanayagam
 I'm a passionate software developer with a keen interest in [Frontend web developement technologies & its domains].
 
 
-- 🌱 I’m currently learning [something new].
-- 💬 Ask me about [topics you're knowledgeable about].
-- 📫 How to reach me: [your email or social media links].
+- 🌱 I’m currently learning [ReactJS].
+- 💬 Ask me about [Frontend webdevelopement].
+- 📫 How to reach me: [brightonperiyanayagam@gmail.com].
 
 ## Skills
 
